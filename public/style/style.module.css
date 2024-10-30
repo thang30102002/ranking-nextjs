@@ -1,0 +1,32 @@
+.body{
+    background-color: #21324C;
+}
+.menu{
+    position: fixed!important;
+    z-index: 9999999;
+    width: 100%;
+}
+.ul-menu{
+    list-style-type: none;
+}
+.color-red
+{
+    color: red;
+}
+.top-player{
+    padding: 15px;
+    max-width: 1320px;
+    margin: auto;
+}
+.player-top-5{
+    display: flex;
+    align-items: center;
+    
+}
+.img-player-top-5{
+    width: 150px;
+}
+.li-top-player{
+    margin-bottom: 15px;
+    border-radius: 13px;
+}
